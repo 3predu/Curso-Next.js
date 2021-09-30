@@ -18,7 +18,7 @@ export default function usandoTitulo(){
                 principal = "Página Login"
                 descricao = "Informe email e senha"
                 pequeno
-                // funciona da mesma forma
+                // funciona da mesma forma que o anterior
             />
         </div>
     )
